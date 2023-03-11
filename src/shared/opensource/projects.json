@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "LinkedIn Clone",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://linkedin-9e1eb.web.app/",
+      "description": "🔥 A LinkedIn clone made using react.js for the front end and firebase for the backend. It uses firebase email and password authentication for user registration and sign in capabilities and also retrieves the posts from firestore database. The user can also write a post and publish it on the page and it gets displayed. The user signs out by clicking on the user's profile avatar on the nav bar.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "skill-icons:react-dark"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "skill-icons:redux"
+        },
+        {
+          "name": "MUI",
+          "iconifyClass": "simple-icons:mui"
+        },
+        {
+          "name": "firebase",
+          "iconifyClass": "logos:firebase"
+        }
+      ]
+    }
+  ]
+}
